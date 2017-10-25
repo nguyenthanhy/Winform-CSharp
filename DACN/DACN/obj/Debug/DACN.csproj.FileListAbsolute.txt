@@ -1,0 +1,12 @@
+D:\WinformCsharp\DACN\DACN\bin\Debug\DACN.exe.config
+D:\WinformCsharp\DACN\DACN\bin\Debug\DACN.exe
+D:\WinformCsharp\DACN\DACN\bin\Debug\DACN.pdb
+D:\WinformCsharp\DACN\DACN\obj\Debug\DACN.csprojResolveAssemblyReference.cache
+D:\WinformCsharp\DACN\DACN\obj\Debug\DACN.FDangNhap.resources
+D:\WinformCsharp\DACN\DACN\obj\Debug\DACN.FHome.resources
+D:\WinformCsharp\DACN\DACN\obj\Debug\DACN.Properties.Resources.resources
+D:\WinformCsharp\DACN\DACN\obj\Debug\DACN.csproj.GenerateResource.Cache
+D:\WinformCsharp\DACN\DACN\obj\Debug\DACN.csproj.CoreCompileInputs.cache
+D:\WinformCsharp\DACN\DACN\obj\Debug\DACN.exe
+D:\WinformCsharp\DACN\DACN\obj\Debug\DACN.pdb
+D:\WinformCsharp\DACN\DACN\obj\Debug\DACN.FTaiKhoan.resources
